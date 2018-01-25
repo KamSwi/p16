@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\kolo\s141163\s141163\bin\Debug\s141163.exe.config
+C:\Users\local\Desktop\kolo\s141163\s141163\bin\Debug\s141163.exe
+C:\Users\local\Desktop\kolo\s141163\s141163\bin\Debug\s141163.pdb
+C:\Users\local\Desktop\kolo\s141163\s141163\obj\Debug\s141163.exe
+C:\Users\local\Desktop\kolo\s141163\s141163\obj\Debug\s141163.pdb
+C:\Users\local\Desktop\kolo\s141163\s141163\obj\Debug\s141163.csprojResolveAssemblyReference.cache
